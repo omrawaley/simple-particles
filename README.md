@@ -5,7 +5,7 @@ Simple Particles is a simple and flexible particle system written in C++ for Sim
 
 ## Features
 - Particle physics
-  - Customizable gravity (Vector2)
+  - Set gravity (Vector2)
 - Particle randomization
   - Position
   - Velocity
